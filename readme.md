@@ -27,3 +27,22 @@
 - Oficina de programação
 - Curso de Javascript
 - Curso de React JS
+
+
+## Conhecimentos
+
+- HTML
+- CSS
+- Javascript
+- Java
+- PHP
+- React JS
+- SQL
+- Git
+
+
+## Participação em Eventos
+
+- SISTEMAS DE INFORMAÇÃO EM AÇÃO
+- V JETI - JORNADA DAS ENGENHARIAS E TECNOLOGIA DA INFORMAÇÃO
+- 22º CICLO DE ATUALIZAÇÃO EM INFORMÁTICA DE UMUARAMA - CAINFU

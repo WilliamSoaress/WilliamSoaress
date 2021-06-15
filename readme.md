@@ -18,3 +18,13 @@
 - Dev Finance (Em andamento)
 - Daily Deal (Em andamento)
 - Ice Solutions (Em andamento)
+
+
+## Redes Sociais
+
+- [LinkedIn](https://www.linkedin.com/in/william-soares-450454160/)
+- [GitHub](https://github.com/WilliamSoaress)
+
+## Informações Adicionais
+
+Atualmente a procura de uma oportunidade no mundo do desenvolvimento.

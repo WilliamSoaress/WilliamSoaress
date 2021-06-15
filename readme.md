@@ -11,3 +11,10 @@
 ## Formação Acadêmica
 
 - Bacharel em Sistemas de Informação pela Universidade Paranaense (2016-2019)
+
+
+## Projetos Pessoais
+
+- Dev Finance (Em andamento)
+- Daily Deal (Em andamento)
+- Ice Solutions (Em andamento)

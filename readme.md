@@ -35,10 +35,7 @@
 - HTML
 - CSS
 - Javascript
-- Java
-- PHP
-- React JS
-- SQL
+- Bootstrap
 - Git
 
 

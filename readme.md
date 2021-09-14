@@ -8,7 +8,7 @@
 
 ------
 
-:link: Links para contato
+:link: **Links para contato**
 <a href="https://www.linkedin.com/in/william-soares-silva/" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">

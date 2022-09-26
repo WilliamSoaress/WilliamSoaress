@@ -1,10 +1,10 @@
 ## Olá, me chamo William Soares :boy:
 
-:man_technologist: Sou um trainee de desenvolvimento full-stack.
+:man_technologist: Desenvolvedor Web/Java Jr.
 
-:computer: Conhecimentos intermediários em HTML, CSS e Javascript.
+:computer: Java, SpringBoot, SQL Server, Angular, React.js.
 
-:books: Atualmente estudando as tecnologias Java, .Net, NodeJs e Angular.
+:books: Formado em sistemas de informação.
 
 ------
 
